@@ -25,7 +25,7 @@ function iLoveTheBeatles(num) {
   do {
     x.push("I love the Beatles!");
     num++;
-    console.log(y)
+    console.log(num)
   }
   while (num < 15)
   return x
