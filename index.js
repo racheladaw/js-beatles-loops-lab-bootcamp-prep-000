@@ -22,12 +22,11 @@ function johnLennonFacts (facts) {
 
 function iLoveTheBeatles(num) {
   var x = []
-  var y = 0
   do {
     x.push("I love the Beatles!");
-    y++;
+    num++;
     console.log(y)
   }
-  while (num < y < 15)
+  while (num < 15)
   return x
 }
